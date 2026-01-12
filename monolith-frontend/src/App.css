@@ -1,0 +1,12 @@
+#root {
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  gap: 20px;
+}
+
+.item {
+  flex: 1;
+}
